@@ -1,5 +1,7 @@
 # Formula One Post-Race Strategy Analysis – Chinese GP 2025
 
+We have taken data from kaggle - Chinese Formula One Grand Prix 2025. Link- https://www.kaggle.com/datasets/umerhaddii/formula-1-chinese-grand-prix-2025
+
 ## Project Overview
 This project focuses on analyzing Formula One race performance data using Python, Pandas, SQL, and data visualization techniques to evaluate driver consistency, tyre degradation, race pace trends, and strategy effectiveness.
 
