@@ -2,6 +2,10 @@
 
 We have taken data from kaggle - Chinese Formula One Grand Prix 2025. Link- https://www.kaggle.com/datasets/umerhaddii/formula-1-chinese-grand-prix-2025
 
+<img width="1280" height="800" alt="Screenshot 2026-05-26 at 11 40 44 PM" src="https://github.com/user-attachments/assets/7f719909-9723-44f6-acc2-d0c5d1b1785e" />
+
+Dashboard link: https://public.tableau.com/views/F1Post-RaceEngineeringAnalyticsDashboardChineseGP2025/F1Post-RaceEngineeringAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project Overview
 This project focuses on analyzing Formula One race performance data using Python, Pandas, SQL, and data visualization techniques to evaluate driver consistency, tyre degradation, race pace trends, and strategy effectiveness.
 
